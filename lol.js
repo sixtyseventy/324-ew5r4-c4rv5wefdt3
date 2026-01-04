@@ -1,1 +1,2 @@
-alert("loaded.")
+/*bookmarklet*/
+alert("remote code loaded!");
